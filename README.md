@@ -1,4 +1,4 @@
-# console2html
+# consoleToHtml
 
 It let's you convert colorized linux console output to html:
 
@@ -10,4 +10,4 @@ will become colorized text: "EXAMPLE"
 
 # Usage
 
-cat output.txt | console2html.sh > output.html
+cat output.txt | console_to_html.sh > output.html
